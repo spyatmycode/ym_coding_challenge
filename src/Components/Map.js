@@ -6,7 +6,6 @@ import { FaInfo } from 'react-icons/fa'
 
 mapboxgl.accessToken = process.env.REACT_APP_MAP_BOX_KEY
 
-const weatherApiKey = process.env.REACT_APP_OPEN_WEATHER_API_KEY
 
 
 
